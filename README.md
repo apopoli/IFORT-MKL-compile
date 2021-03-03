@@ -12,8 +12,5 @@ RUN COMMAND:
 sh run_serial.sh
 sh run_parallel.sh
 
-# INTEL FORTRAN COMPILER STANDALONE
-https://liveunibo-my.sharepoint.com/:u:/g/personal/arturo_popoli_unibo_it/EQmADMoxTI5Bn2klKvbEFpkBzLju_OmNLQYxneny_cZP6A?e=uqn6DX
-
-# INTEL MKL STANDALONE
+# INTEL FORTRAN COMPILER STANDALONE & INTEL MKL STANDALONE
 https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl
