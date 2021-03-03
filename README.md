@@ -1,4 +1,4 @@
-# IFORT-MKL-compile
+# IFORT-MKL-compile (LINUX)
 Template for command line serial/parallel compilation with IFORT + MKL
 
 LINK TO COMMAND LINE ADVISOR
@@ -12,3 +12,8 @@ RUN COMMAND:
 sh run_serial.sh
 sh run_parallel.sh
 
+# INTEL FORTRAN COMPILER
+https://liveunibo-my.sharepoint.com/:u:/g/personal/arturo_popoli_unibo_it/EQmADMoxTI5Bn2klKvbEFpkBzLju_OmNLQYxneny_cZP6A?e=uqn6DX
+
+# INTEL MKL
+https://liveunibo-my.sharepoint.com/:u:/g/personal/arturo_popoli_unibo_it/EaM0iZ280nJKnQ6Il7wjD-kBebBwAJw1GeZz50tp4Jxvcw?e=te20iZ
